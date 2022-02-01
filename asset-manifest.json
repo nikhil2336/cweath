@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cweath/static/css/main.383e64ec.css",
+    "main.js": "/cweath/static/js/main.1da59a3d.js",
+    "static/js/787.34b0ae10.chunk.js": "/cweath/static/js/787.34b0ae10.chunk.js",
+    "index.html": "/cweath/index.html",
+    "main.383e64ec.css.map": "/cweath/static/css/main.383e64ec.css.map",
+    "main.1da59a3d.js.map": "/cweath/static/js/main.1da59a3d.js.map",
+    "787.34b0ae10.chunk.js.map": "/cweath/static/js/787.34b0ae10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.383e64ec.css",
+    "static/js/main.1da59a3d.js"
+  ]
+}
